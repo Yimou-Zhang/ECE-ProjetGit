@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "we live in society" << endl;
+    cout << "we lty" << endl;
     return 0;
 }
